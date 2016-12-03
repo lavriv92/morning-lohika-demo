@@ -1,0 +1,22 @@
+{
+  "name": "morning-lohika-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "train": "node src/network",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "brain": "^0.7.0",
+    "brain.js": "^0.7.0",
+    "express": "^4.14.0",
+    "ml": "^1.4.0",
+    "ml-bayes": "^1.0.5"
+  }
+}

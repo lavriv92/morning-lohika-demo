@@ -1,0 +1,28 @@
+
+
+body {
+  font-family: sans-serif;
+  background: #666;
+}
+
+textarea {
+  width: 800px;
+}
+
+button {
+  background: lightblue;
+  border: none;
+  width: 100px;
+  height: 30px;
+}
+
+h1 {
+  color: lightgreen;
+}
+
+.message {
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
