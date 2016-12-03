@@ -14,7 +14,7 @@
     console.log(winner);
 
     if(winner.label === "spam") {
-      alert('This message look like spam, please be polite with another users');
+      alert('This message looks like spam, please be polite with another users');
     } else {
       buildNode(message);
     }
